@@ -2,7 +2,7 @@
 *零配置的SSM模板*
 
 * 修改`src/main/resources/application.yml`的数据库配置
-    ```java
+    ```yml
     spring:
       datasource:
          url: jdbc:mysql://127.0.0.1:3306/mytest
