@@ -28,6 +28,6 @@
     INSERT INTO T_USER(NAME, PASSWORD, PHONE) VALUES("zijiao", "123456", "1234567890");
     ```
 
-* 运行`SpringBoot4SsmApplication`的main方法开启服务，访问 [`http://localhost:8080/index`][(http://localhost:8080/index)]
+* 运行`SpringBoot4SsmApplication`的main方法开启服务，访问 [`http://localhost:8080/index`](http://localhost:8080/index)
 
 
