@@ -23,7 +23,7 @@ public class SpringBoot4SsmApplicationTests {
 
     @Test
     public void test() {
-        userMapper.insert("winterchen", "123456", "12345678910");
+        userMapper.insert("zijiao", "123456", "12345678910");
         User u = userMapper.findUserByPhone("12345678910");
         Assert.assertEquals("winterchen", u.getName());
     }
